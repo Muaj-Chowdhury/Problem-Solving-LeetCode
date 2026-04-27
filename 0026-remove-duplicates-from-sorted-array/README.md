@@ -49,3 +49,5 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 	<li><code>-100 &lt;= nums[i] &lt;= 100</code></li>
 	<li><code>nums</code> is sorted in <strong>non-decreasing</strong> order.</li>
 </ul>
+
+Comparison TableFeatureVersion A (Start k=1)Version B (Start k=0)Pointer Definition$k$ is the next empty slot to fill.$k$ is the index of the last unique value found.Logic"I found a unique value, put it in slot $k$, then move $k$.""I found a unique value, move $k$ to a new slot, then put it there."Placementnums[k] = nums[i]; k++;k++; nums[k] = nums[i];Return Valuereturn k;return k + 1;
