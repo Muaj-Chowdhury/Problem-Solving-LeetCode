@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Muaj-Chowdhury/Problem-Solving-LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Muaj-Chowdhury/Problem-Solving-LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Muaj-Chowdhury/Problem-Solving-LeetCode/tree/master/0036-valid-sudoku) |
+| [0066-plus-one](https://github.com/Muaj-Chowdhury/Problem-Solving-LeetCode/tree/master/0066-plus-one) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Muaj-Chowdhury/Problem-Solving-LeetCode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Hash Table
 |  |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Muaj-Chowdhury/Problem-Solving-LeetCode/tree/master/0036-valid-sudoku) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Muaj-Chowdhury/Problem-Solving-LeetCode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Muaj-Chowdhury/Problem-Solving-LeetCode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
