@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Muaj-Chowdhury/Problem-Solving-LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Muaj-Chowdhury/Problem-Solving-LeetCode/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/Muaj-Chowdhury/Problem-Solving-LeetCode/tree/master/0066-plus-one) |
+| [0989-add-to-array-form-of-integer](https://github.com/Muaj-Chowdhury/Problem-Solving-LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Muaj-Chowdhury/Problem-Solving-LeetCode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Hash Table
 |  |
@@ -50,4 +51,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Muaj-Chowdhury/Problem-Solving-LeetCode/tree/master/0066-plus-one) |
+| [0989-add-to-array-form-of-integer](https://github.com/Muaj-Chowdhury/Problem-Solving-LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 <!---LeetCode Topics End-->
