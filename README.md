@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Muaj-Chowdhury/Problem-Solving-LeetCode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Muaj-Chowdhury/Problem-Solving-LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Muaj-Chowdhury/Problem-Solving-LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Muaj-Chowdhury/Problem-Solving-LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Muaj-Chowdhury/Problem-Solving-LeetCode/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Muaj-Chowdhury/Problem-Solving-LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Muaj-Chowdhury/Problem-Solving-LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Muaj-Chowdhury/Problem-Solving-LeetCode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Muaj-Chowdhury/Problem-Solving-LeetCode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Muaj-Chowdhury/Problem-Solving-LeetCode/tree/master/0049-group-anagrams) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Muaj-Chowdhury/Problem-Solving-LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Muaj-Chowdhury/Problem-Solving-LeetCode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Two Pointers
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Muaj-Chowdhury/Problem-Solving-LeetCode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/Muaj-Chowdhury/Problem-Solving-LeetCode/tree/master/0049-group-anagrams) |
 ## Trie
 |  |
 | ------- |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Muaj-Chowdhury/Problem-Solving-LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Muaj-Chowdhury/Problem-Solving-LeetCode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Muaj-Chowdhury/Problem-Solving-LeetCode/tree/master/0049-group-anagrams) |
 ## Dynamic Programming
 |  |
 | ------- |
