@@ -21,7 +21,7 @@ var merge = function(intervals) {
             // Overlap! Update the end time of the current interval
             current[1] = Math.max(current[1], next[1]);
         } else {
-            // No overlap! Push the next interval as a new entry
+            // No overlap, Push the next interval as a new entry
             merged.push(next);
         }
     }
