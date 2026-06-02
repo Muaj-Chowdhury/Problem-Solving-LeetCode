@@ -7,7 +7,7 @@
 <p><strong>Note</strong> that you don&#39;t need to modify <code>intervals</code> in-place. You can make a new array and return it.</p>
 
 <p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+<p><strong class="example">Example-1:</strong></p>
 
 <pre>
 <strong>Input:</strong> intervals = [[1,3],[6,9]], newInterval = [2,5]
