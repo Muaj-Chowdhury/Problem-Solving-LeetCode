@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Muaj-Chowdhury/Problem-Solving-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Muaj-Chowdhury/Problem-Solving-LeetCode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Muaj-Chowdhury/Problem-Solving-LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Muaj-Chowdhury/Problem-Solving-LeetCode/tree/master/0018-4sum) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Muaj-Chowdhury/Problem-Solving-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Muaj-Chowdhury/Problem-Solving-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Muaj-Chowdhury/Problem-Solving-LeetCode/tree/master/0049-group-anagrams) |
 ## Trie
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Muaj-Chowdhury/Problem-Solving-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/Muaj-Chowdhury/Problem-Solving-LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Muaj-Chowdhury/Problem-Solving-LeetCode/tree/master/0053-maximum-subarray) |
 ## Divide and Conquer
