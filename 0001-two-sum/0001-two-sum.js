@@ -8,6 +8,7 @@ var twoSum = function(nums, target) {
     for(let i = 0 ; i < nums.length ; i++){
         const current = nums[i];
         const complement = target - current;
+        // check whether the complement is found in the Map
         if(seen.has(complement)){
             return [seen.get(complement), i]
         }
